@@ -56,6 +56,17 @@ button:disabled {
     height: auto;
 }
 
+.foto {
+    position: absolute;
+    top: 20px;
+    Left: 20px;
+}
+
+.foto img {
+    max-width: 150px;
+    height: auto;
+}
+
 .Titulo {
     font-size: 36px;
     color: #007bff;
